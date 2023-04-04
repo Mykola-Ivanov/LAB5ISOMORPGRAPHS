@@ -18,12 +18,12 @@ public class App
             GraphLoader loaderGraph2 = new GraphLoader(pathGraph2,true);
             GraphLoader loaderGraph3 = new GraphLoader(pathGraph3,true);
 
-            UllmanAlgorithm ullmanAlgorithm = new UllmanAlgorithm();
-            boolean isGraph1IsomorphicToGraph2 = ullmanAlgorithm.isIsomorphic(
+            IsomorphGraphAlgorithm isomorphGraphAlgorithm = new IsomorphGraphAlgorithm();
+            boolean isGraph1IsomorphicToGraph2 = isomorphGraphAlgorithm.isIsomorphic(
                     loaderGraph1.getAdjacencyList(),loaderGraph2.getAdjacencyList());
             System.out.println("\nG1 та G2 "+(isGraph1IsomorphicToGraph2?"Графи ізомрфні":"Графи не ізоморфні"));
 
-            boolean isGraph1IsomorphicToGraph3 = ullmanAlgorithm.isIsomorphic(
+            boolean isGraph1IsomorphicToGraph3 = isomorphGraphAlgorithm.isIsomorphic(
                     loaderGraph1.getAdjacencyList(),loaderGraph3.getAdjacencyList());
             System.out.println("\nG1 та G3 "+(isGraph1IsomorphicToGraph3?"Графи ізомрфні":"Графи не ізоморфні"));
 

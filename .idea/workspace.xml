@@ -5,19 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f49747dc-ac70-44ad-aae1-46d44603b574" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/GraphLoader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/UllmanAlgorithm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/L5_1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/L5_2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/L5_3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/UllmanAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/IsomorphGraphAlgorithm.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,6 +78,7 @@
       <workItem from="1679941415513" duration="7420000" />
       <workItem from="1679995773302" duration="5297000" />
       <workItem from="1680018058292" duration="6604000" />
+      <workItem from="1680643012654" duration="717000" />
     </task>
     <servers />
   </component>
@@ -98,12 +89,12 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/UllmanAlgorithm.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/IsomorphGraphAlgorithm.java</url>
           <line>54</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/UllmanAlgorithm.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/IsomorphGraphAlgorithm.java</url>
           <line>32</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>

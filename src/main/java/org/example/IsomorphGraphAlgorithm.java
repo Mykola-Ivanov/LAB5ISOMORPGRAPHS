@@ -2,7 +2,7 @@ package org.example;
 
 import java.util.*;
 
-public class UllmanAlgorithm {
+public class IsomorphGraphAlgorithm {
 
     public boolean isIsomorphic(List<List<Integer>> g1, List<List<Integer>> g2) {
         int n = g1.size();
